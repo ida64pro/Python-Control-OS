@@ -1,0 +1,7 @@
+discord
+disnake
+asyncio
+mss
+pynput
+pymongo
+pyautogui
