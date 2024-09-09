@@ -1,6 +1,5 @@
 <h1 align="center" id="title">Python Control OS</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
 
 <p id="description">With this app you can control your PC with any device in discord app.</p>
 
